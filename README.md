@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheLawal24
+- 👋 Hi, I’m Lawal Sulaiman (@TheLawal24)
 - 👀 I’m interested in data science, machine learning and aritificial intelligence.
 - 🌱 I’m currently learning machinlearning (ML) and deep learning (DL)
 - 💞️ I’m looking to collaborate on ML and AI applications on engineering applications
