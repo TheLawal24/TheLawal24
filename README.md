@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lawal Sulaiman (@TheLawal24)
-- 👀 I’m interested in Fintech, I.T, Data science, Machine learning and Aritificial intelligence.
+- 👀 I’m interested in Aritificial intelligence, Machine Learning,Data science and Fintech.
 - 🌱 I’m currently learning Deep learning (DL)
-- 💞️ I’m looking to collaborate on Fintech propjects, ML and AI applications on solving financial issue, Human AI interactions, Robotics.
+- 💞️ I’m looking to collaborate on AI/ML projects, Natural Language processes (NLP), Human A.I interactions, and Robotics.
 - 📫 How to reach me lawal2401@gmail.com or lawal.sulaiman17@kwasu.edu.ng 
 
 <!---
