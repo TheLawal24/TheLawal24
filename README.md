@@ -1,6 +1,6 @@
 # Hi, I'm Lawal Oladele Sulaiman 👋
 
-### DevOps & Cloud Engineer
+### DevOps & Cloud Engineer.
 
 **AWS • GCP • Terraform • Kubernetes • Docker • CI/CD • GitOps • DevSecOps**
 
